@@ -1,0 +1,9 @@
+Naran - Gnomo, Militar, Neutro/Mal
+Iado - Gnoll, Mineradora, Leal/Mal
+Mogues - Orc, Agricola, Caotico/Neutro -- OK
+Elax - Elfo, Pescadores, Caotico/Bom
+Fordel - Anão, Militar, Leal/Neutro  -- OK
+Radago - Kitsune, Extratora, Caótico/Neutro -- OK
+Amizarint - Goblins/Halflings, Pecuarista, Leal/Neutro -- OK
+Madoma - Automation, Mineradores,Leal/Mal
+Elgar - Leshy, Agrícola, Caótico/Neutro

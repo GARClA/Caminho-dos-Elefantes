@@ -1,0 +1,28 @@
+# Mogues
+
+### Características
+**Caótico | Neutro** </br>
+**Agrícola, Abaixo da Média** </br>
+**Cidade Pequena, 9323** </br>
+
+
+### Características
+**Caótico | Neutro** </br>
+**Agrícola, Abaixo da Média** </br>
+**Cidade Pequena, 9323** </br>
+
+### Demografia
+| **Raça** | **População** |
+|:----:|:-------------|
+| Orc | 6061 |
+| Humano | 1398 |
+| Povo Lagarto | 932 |
+| Goblin | 466 |
+| Griplli | 466 |
+
+## Lore
+A união dos povos verdes no pântano dos cogumelos é muito antiga, lendas contam que algumas delas surgiram do próprio lodo e ali fizeram sua morada.
+</br>
+Ao longo dos séculos, inúmeras guerras foram travadas com os anões de Fordel que tentavam invadir suas terras, porém os bravos guerreiros pele-verde foram bem sucedidos em defender suas terras.
+</br></br>
+Atualmente com o desenvolvimento tecnológico das nações vizinhas, o Chefe Guerreiro Ront se vê em uma situação complicada, onde suas opções são colocar sua nação em uma guerra com baixas chances de vitória, desenvolver tecnologia ou convencer os druidas da folha a auxiliarem nas batalhas.

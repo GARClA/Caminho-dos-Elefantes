@@ -1,0 +1,26 @@
+# Amizarint
+
+### Características
+**Leal | Neutro** </br>
+**Pecuarista, Rica** </br>
+**Cidade Grande, 13357** </br>
+
+### Demografia
+| **Raça** | **População** |
+|:----:|:-------------|
+| Goblin | 5624 |
+| Halfling | 4218 |
+| Humano | 1406 |
+| Hobgoblin | 703 |
+| Kobold | 703 |
+| Gnomo | 703 |
+
+
+## Lore
+
+Após dezenas de anos em confronto com os furiosos elefantes que  viviam no desague dos rios, 
+goblins e halflings se uniram sob uma mesma 
+bandeira a  fim de conquistarem o território mais fertil do continente no delta do rio.
+ </br></br>
+Atualmente, os habitantes de Amizarin, vivem sob as coroas do rei Cade e do rei Zifapo, além disso, 
+também vivem em harmonia com os elefantes incorporando eles ao transporte, agricultura e turismo.

@@ -1,0 +1,26 @@
+# Fordel
+
+### Características
+**Leal | Neutro** </br>
+**Militar, Acima da Média** </br>
+**Cidade Pequena, 9349** </br>
+
+### Demografia
+| **Raça** | **População** |
+|:----:|:-------------|
+| Anão | 6545 |
+| Hobgoblin | 935 |
+| Kobold | 935 |
+| Humano | 467 |
+| Ratfolk | 280 |
+| Gnomo | 187 |
+
+
+## Lore
+A exploração da cordilheira Para-Vida começou em tempos que nem o mais velho dos anões de Fordel se recorda,
+ao longo dos séculos jazidas e reservas definiram as estruturas de poder da cidade, onde as famílias que dominavam uma região
+boa para a mineração logo aumentava seu status social.Já que os metais eram extremamente importantes na produção de equipamentos,
+já que a história de Fordel foi traçada em cima do sangue de seus vizinhos Orcs e Gnolls. Assim surgiram os Clãs Anões de Fordel.
+</br></br>
+Atualmente, os conflitos com seus vizinhos tem sido vencidos por conta do domínio no uso de pólvora e armas de fogo,
+ o Rei Magnus Talhabronze lidera as montanhas e segue firme em seus planos de expansão militar, para quem sabe um dia reinar também sobre o pântano.
