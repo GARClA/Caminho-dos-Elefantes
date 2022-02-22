@@ -1,0 +1,9 @@
+# (NOME DO CLÃ)
+
+### Características
+**(tendencia1) | (tendencia2)** </br>
+**(função do cla "militar,minerador, etc), (riqueza)** </br>
+** (NUMERO) integrantes** </br>
+
+## Lore
+(TEXTO)
