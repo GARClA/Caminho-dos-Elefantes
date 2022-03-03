@@ -1,5 +1,8 @@
-# (NOME DO DEUS)
+# (NOME)
 
 ### Características
-**(tendencia1) | (tendencia2)** </br>
-** Domínios: ** </br>
+**(t1) | (t2)** </br>
+** Domínios: (doms)** </br>
+** Arma Favorita: (arm)** </br>
+** Fonte Divina: (fonte) ** </br>
+** Perícia Divina: (per) ** </br>
